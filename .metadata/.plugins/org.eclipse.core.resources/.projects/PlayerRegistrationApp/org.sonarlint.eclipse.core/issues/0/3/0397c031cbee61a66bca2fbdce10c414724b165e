@@ -1,0 +1,10 @@
+
+o	java:S106	"9Replace this use of System.out or System.err by a logger.(øºÑûúÿÿÿÿ8ı¥¹Ÿ˜/H RMAJORZ
+CODE_SMELL
+R
+java:S1165" Make this "message" field final.(Ìó™8ı¥¹Ÿ˜/HRMINORZ
+CODE_SMELL
+o	java:S106"9Replace this use of System.out or System.err by a logger.(øºÑûúÿÿÿÿ8×ÎµŸ˜/HRMAJORZ
+CODE_SMELL
+ƒ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿³é=HRMINORZ
+CODE_SMELL

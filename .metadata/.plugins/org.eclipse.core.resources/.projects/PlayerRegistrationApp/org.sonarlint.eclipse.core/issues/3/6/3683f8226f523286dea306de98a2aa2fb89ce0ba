@@ -1,0 +1,6 @@
+
+d
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8ØÎµŸ˜/HRMAJORZ
+CODE_SMELL
+‰	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( þàŸüÿÿÿÿHRMINORZ
+CODE_SMELL

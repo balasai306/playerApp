@@ -1,0 +1,26 @@
+
+|
+java:S21471"DCombine this catch with the one at line 46, which has the same body.(´†¬ıÿÿÿÿ8–û¢˜/HàRMINORZ
+CODE_SMELL
+i
+java:S1135/"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8–û¢˜/HâRINFOZ
+CODE_SMELL
+i
+java:S11352"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8–û¢˜/HãRINFOZ
+CODE_SMELL
+p	java:S106""9Replace this use of System.out or System.err by a logger.(çÂª–üÿÿÿÿ8ì±¦¤˜/HÏRMAJORZ
+CODE_SMELL
+—
+java:S1989'"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ò¢ë‡8ÆëĞ£˜/HÚRMINORZVULNERABILITY
+f
+java:S1161":Add the "@Override" annotation above this method signature(÷¤‹úHŸRMAJORZ
+CODE_SMELL
+b
+java:S3740 "/Provide the parametrized type for this generic.(‚ŠŠÂ8ì±¦¤˜/HËRMAJORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éƒîéHRMINORZ
+CODE_SMELL
+o
+java:S2583$"CChange this condition so that it does not always evaluate to "true"(Û÷æ†8Ôñ¬¤˜/HİRMAJORZBUG
+p	java:S106,"9Replace this use of System.out or System.err by a logger.(¢‹•Ğûÿÿÿÿ8Ôñ¬¤˜/HàRMAJORZ
+CODE_SMELL
